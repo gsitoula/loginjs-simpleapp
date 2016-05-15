@@ -1,0 +1,14 @@
+{
+  "name": "loginjs",
+  "main": "server.js",
+  "private": true,
+  "description": "el hola mundo de los logins",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "jsonfile": "^2.3.1",
+    "morgan": "^1.7.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
